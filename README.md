@@ -1,1 +1,1 @@
-# sql_assignments
+SQL Assignemets for Intern at Diggibyte
